@@ -4,3 +4,4 @@ merging
 merging test
 Commit 0005.
 Commit 0001.
+Commit 0002.
